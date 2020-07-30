@@ -10,6 +10,7 @@ Here are all my repositories for quick access
 1. [Labyrinth](https://github.com/megamaz/Labyrinth) First game in Python
 1. [Collab With FWR Staff](https://github.com/megamaz/CollabWithFWRStaff) A game in unity that is nowhere near done and progress has ended
 1. [Discord AdminBOT](https://github.com/megamaz/AdminBOT) A bot in python.
+1. [Image Color Palette](https://github.com/megamaz/PaletteColorImage/) Transforms an image to fit a choosen RGB color palette.
 
 Here are my gists:
 1. [Calculator in Python](https://gist.github.com/megamaz/82a49eefb634c1afebcf0c6ea7a9425d) My first python project.
