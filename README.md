@@ -11,8 +11,9 @@ Here are all my repositories for quick access
 1. [Collab With FWR Staff](https://github.com/megamaz/CollabWithFWRStaff) A game in unity that is nowhere near done and progress has ended
 1. [Discord AdminBOT](https://github.com/megamaz/AdminBOT) A bot in python.
 1. [Image Color Palette](https://github.com/megamaz/PaletteColorImage/) Transforms an image to fit a choosen RGB color palette.
+1. [Discord English Deepfrier Bot](https://github.com/megamaz/English-Deepfrier-Bot/) A discord bot that uses Google Translate's python SDK to deepfry English.
 
-Here are my gists:
+ Here are my gists:
 1. [Calculator in Python](https://gist.github.com/megamaz/82a49eefb634c1afebcf0c6ea7a9425d) My first python project.
 1. [Webcheck](https://gist.github.com/megamaz/54ea880af345177544a9fa8914a57635) Checks the website status
 1. [Graph](https://gist.github.com/megamaz/8f27b94b31b6609be8a0f826ac93fd8e) [BAD] Do not use this. Original goal was to make a python library, obvious fail.
