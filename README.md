@@ -1,4 +1,4 @@
-### Hey there!
+# Hey there!
 
 I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), and a little bit of [C#](https://docs.microsoft.com/en-us/dotnet/csharp/). 
 ## I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
