@@ -1,6 +1,8 @@
 ### Hey there!
 
 I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), and a little bit of [C#](https://docs.microsoft.com/en-us/dotnet/csharp/). 
+## I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
+
 
 Here are all my repositories for quick access
 1. [Python Brainfuck Interpreter](https://github.com/megamaz/Brainfuck_Interpreter_Python) A Brainfuck interpreter made in python.
@@ -14,6 +16,7 @@ Here are all my repositories for quick access
 1. [Discord English Deepfrier Bot](https://github.com/megamaz/English-Deepfrier-Bot/) A discord bot that uses Google Translate's python SDK to deepfry English.
 
  Here are my gists:
+1. [My first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
 1. [Calculator in Python](https://gist.github.com/megamaz/82a49eefb634c1afebcf0c6ea7a9425d) My first python project.
 1. [Webcheck](https://gist.github.com/megamaz/54ea880af345177544a9fa8914a57635) Checks the website status
 1. [Graph](https://gist.github.com/megamaz/8f27b94b31b6609be8a0f826ac93fd8e) [BAD] Do not use this. Original goal was to make a python library, obvious fail.
