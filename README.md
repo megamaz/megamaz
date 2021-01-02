@@ -1,20 +1,10 @@
 # Hey there!
 
 I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and started coding in [Java](https://www.java.com/en/)
-## I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
-### My [GitHub Page](https://megamaz.github.io)
+#### I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
+<!-- ### My [GitHub Page](https://megamaz.github.io) -->
 
-Here are all my repositories for quick access
-1. [PNEE](https://github.com/megamaz/noodleextensions-python) A python Beat Saber Noodle Extensions editor (library)
-1. [Python Brainfuck Interpreter](https://github.com/megamaz/Brainfuck_Interpreter_Python) A Brainfuck interpreter made in python.
-1. [This!](https://github.com/megamaz/megamaz)
-1. [DAP](https://github.com/megamaz/Data-analyze-project) (Project done during Pygame Summer Camp.)
-1. [Sky J~~u~~mper](https://github.com/megamaz/Sky-jmper) (Project done during Pygame Summer Camp.)
-1. [Labyrinth](https://github.com/megamaz/Labyrinth) First game in Python
-1. [Collab With FWR Staff](https://github.com/megamaz/CollabWithFWRStaff) A game in unity that is nowhere near done and progress has ended
-1. [Discord AdminBOT](https://github.com/megamaz/AdminBOT) A bot in python.
-1. [Image Color Palette](https://github.com/megamaz/PaletteColorImage/) Transforms an image to fit a choosen RGB color palette.
-1. [Discord English Deepfrier Bot](https://github.com/megamaz/English-Deepfrier-Bot/) A discord bot that uses Google Translate's python SDK to deepfry English.
+My main project at the Moment is [PNEE](https://github.com/megamaz/noodleextensions-python), a python Beat Saber Noodle Extensions editor (library) that can be imported into your script. It's got a few bugs, so if you run into any LET ME KNOW! Either open an issue or let me know on discord through `megamaz#1020`.
 
  Here are my gists:
 1. [My first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
