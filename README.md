@@ -3,8 +3,11 @@
 I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and started coding in [Java](https://www.java.com/en/)
 #### I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
 <!-- ### My [GitHub Page](https://megamaz.github.io) -->
-
-My main project at the Moment is [PNEE](https://github.com/megamaz/noodleextensions-python), a python Beat Saber Noodle Extensions editor (library) that can be imported into your script. It's got a few bugs, so if you run into any LET ME KNOW! Either open an issue or let me know on discord through `megamaz#1020`.
+# My Repos
+- [python-noodleExtensions-demojs](https://github.com/megamaz/python-noodleExtensions-demojs) A copy of the `demo.js` file in python.
+- [PNEE](https://github.com/megamaz/noodleExtensions-python) Do not count on me for support. PNEE has been shut down.
+- [RandomlyGeneratedBeatSaberLevel](https://github.com/megamaz/RandomlyGenerateBeatSaberLevel) aka "oh no" generator
+- [Brainfuck Interpreter Python](https://github.com/megamaz/Brainfuck_Interpreter_Python)
 
  Here are my gists:
 1. [My first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
