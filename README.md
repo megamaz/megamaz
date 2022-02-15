@@ -1,7 +1,10 @@
 # Hey there!
 
-I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and started coding in [Java](https://www.java.com/en/)
-#### I am putting this one on DISPLAY!! I am so happy to have found my [first python code](https://gist.github.com/megamaz/13055e5e85b2aea66812d22e40830063)!
+I'm **megamaz** and I code in [Python](https://www.python.org/), [Brainfuck](https://www.youtube.com/watch?v=tcHaMWktCYE&ab_channel=623), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), and started coding in [Java](https://www.java.com/en/)\
+\
+If you wish to contact me privately, I prefer you do so through discord: `megamaz#1020`\
+<!-- If discord doesn't work for you, make a post request at https://megamaz.me:10156/contact with `json={"message":"", "reply_at":""}` so I know why you're contacting me and where I can make my reply. -->
+<!-- The above line has been commented out because it has not been setup -->
 <!-- ### My [GitHub Page](https://megamaz.github.io) -->
 # My Repos
 - [python-noodleExtensions-demojs](https://github.com/megamaz/python-noodleExtensions-demojs) A copy of the `demo.js` file in python.
