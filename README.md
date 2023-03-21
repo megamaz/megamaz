@@ -7,6 +7,7 @@ If you wish to contact me privately, I prefer you do so through discord: `megama
 <!-- The above line has been commented out because it has not been setup -->
 <!-- ### My [GitHub Page](https://megamaz.github.io) -->
 # My Repos
+- [GitStats](https://github.com/megamaz/gitstats) A lightweight app for getting statistics on a repository. needs contributors.
 - [python-noodleExtensions-demojs](https://github.com/megamaz/python-noodleExtensions-demojs) A copy of the `demo.js` file in python.
 - [RandomlyGeneratedBeatSaberLevel](https://github.com/megamaz/RandomlyGenerateBeatSaberLevel) aka "oh no" generator
 - [Brainfuck Interpreter Python](https://github.com/megamaz/Brainfuck_Interpreter_Python)
