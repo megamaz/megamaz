@@ -10,6 +10,7 @@ If you wish to contact me privately, I prefer you do so through discord: `megama
 <!-- ### My [GitHub Page](https://megamaz.github.io) -->
 # My Top Repos
 A small list of my repos that I'm proud of.
+- [ImageGameEngine](https://github.com/megamaz/ImageGameEngine) An esoteric game engine built so that the entire gamea (code, sprites, ram, vram, etc) is stored within a 256x256 image.
 - [GitStats](https://github.com/megamaz/gitstats) A lightweight app for getting statistics on a repository. needs contributors.
 - [CelesteTAS](https://github.com/megamaz/CelesteTAS) A list of all my Celeste TASes.
 - [brainfuck_interpreter_java](https://github.com/megamaz/brainfuck_interpreter_java) Faster than the python version.
